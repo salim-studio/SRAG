@@ -1,0 +1,6 @@
+{
+  "name": "RAG Knowledge Platform",
+  "description": "Professional production-ready RAG platform with hybrid search, reranking, multi-knowledge bases, citation grounding, evaluation, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
